@@ -28,6 +28,4 @@ src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=
 src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white" alt="Khan Academy" data-canonical-src="" style="max-width: 100%;">
   <img
 src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" data-canonical-src="" style="max-width: 100%;">
-  <img
-src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" data-canonical-src="" style="max-width: 100%;">
 </div>
