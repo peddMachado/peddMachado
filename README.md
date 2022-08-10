@@ -18,7 +18,7 @@
 src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="VSCODE" data-canonical-src="" style="max-width: 100%;">
   <img
 src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="REPLIT" data-canonical-src="" style="max-width: 100%;"><br>
- <img
+  <img
 src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" data-canonical-src="" style="max-width: 100%;"><br>
   <img
 src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.TO" data-canonical-src="" style="max-width: 100%;">
